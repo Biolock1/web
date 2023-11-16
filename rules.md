@@ -59,119 +59,102 @@ The below are guidelines for reference, and it is highly recommended not to stra
 
 # Rule 2: Roleplay
 
-CM-SS13 is intended to be a Medium Roleplay server. Play a reasonably realistic character. Treat your character as a separate entity from you, the player. Your character's actions, feelings, and knowledge in-game should be based solely on the character's experiences and not your own as the player. Low roleplay actions that have no regard for your character or the setting (Memes, silly copypaste spam IC) are not acceptable. Character development can occur over rounds but each round is a soft-reset, meaning you can have previous mission experience but your character will never have died or fled the ship in the past. Follow the Roleplay Standards.
+CM-SS13 is intended to be a Medium Roleplay server. Play a reasonably realistic character. Treat your character as a separate entity from you, the player. Your character’s actions, feelings, and knowledge in-game should be based solely on the character’s experiences and not your own as the player. Character development can occur over rounds but each round is a soft-reset, meaning you can have previous mission experience but your character will never have died, fled the ship, or otherwise had major round-based knowledge in the past. Follow the Roleplay Standards per your role. Not all roles are created equal, as some roles have higher expectations than others.
 
-Major shenanigans that may disrupt the normal flow of the round at roundstart, (This includes but is not limited to; big or lethal fights, briefing brawls, riots, jailbreaking, massive equipment restrictions and tackling players trying to reach their prep room.), are not tolerated.
+## Human Baseline Roleplay Standards
+Unless otherwise stated in a category, all humans are to adhere to these standards as an absolute minimum.
 
-## Human Roleplay Standards
-
-### Dropship Arrests & Riots 
-
-- Causing riots on the dropship over an arrest before first drop will be considered round start shenanigans and staff members will intervene with OOC punishments. You shouldn’t lynch a MP and risk your career because they are arresting a marine who has entered the dropship. If you are wanted and enter the dropship to try and avoid arrest you will be held accountable if issues arise with MPs. 
+### Language 
+Spamming memes and using netspeak in-character (LOL, BRB, WTF, etc) is considered Low Roleplay.
 
 ### Sanity
+All personnel employed by the USCM are mentally stable and physically fit for duty, and are to be loyal to the marine corp under all but the most extreme circumstances (seek staff approval). 
 
-- All personnel employed by the USCM are mentally stable and physically fit for duty. They would not desert their post or go against the USCM without a good reason. 
-    - For example, the Mess Technician would not start dicing up bodies in the gibber.
-- Marriages are forbidden, no two people employed by the USCM on the same ship may be married. 
-- The USCM has knowledge of most threats, including all human forces (UPP, CLF, PMC, etc) and general knowledge of the Xenomorph hive structure. 
-- The USCM does not know there is a Xenomorph threat on the planet of operation unless that information is given in a custom event.
+### Relationships
+No two people employed by the USCM on the same ship may be married or engaged to one another.
 
-### Deployment 
+### Knowledge:
+**The crew and passengers of the Almayer know the following things:**
+-Xenomorph hive structure and caste names.
+-Information about all human factions.
 
-- All personnel deployed should be following their role requirements. A Medic would not only be healing themselves, a Specialist is expected to take and use their equipment and a Squad Leader would not ignore the orders of command just to do their own thing.
-- Higher ranking squad marines (such as the squad-leader, specialist, smart-gunner and FTL) should be following the orders assigned to them by the commander instead of running off to go fight alone. Special circumstances exclude this requirement, but players should be prepared to justify their actions if contacted by staff. 
-- Certain Heads of Departments (RO, CMP and CMO) should not be leaving the ship barring exceptional circumstances.
-- All marines should be deploying where possible, refusing to deploy because someone got arrested is not allowed. 
-- Shipside Crew, where authorised to deploy, must remain in secure areas, and must fulfil their role:
-    -Maintenance Technicians should be aiding in FOB construction, or securing areas close to the FOB.
-    -Doctors are not to be combat medics running into danger to pull wounded or dead marines out of combat.
-    -The Combat Correspondent should be documenting the fighting, and should disengage if attacked by hostiles.
-
-### Ship Modifications 
-
-- Deconstruction of the ship should not be occuring before first drop & confirmed contact. The marines would not immediately resort to taking their warship to pieces for a random unconfirmed distress call. 
-- This includes deconstruction of things like chairs in briefing, however does not include the barrels and crates scattered around maintenance. 
-- Modifications to the ship should not be made with meta-purposes, no building a maze or bunker on the ship intended to help secure the ship for hijack before you even know hijack is a thing.
-
-### Synthetics 
-
-- Synthetics are cold and do not feel emotions as strongly as humans, though they may fake them. They serve the USCM and may not turn against them. Synthetics must adhere to the [Synthetic Programming and Guidelines](https://forum.cm-ss13.com/t/synthetic-programming-and-guidelines). 
-- Synthetic Survivors have altered Programming which can also be found there. 
-- Synthetic Guideline breaches are dealt with by the Synthetic Whitelist Council, who can be contacted on discord or through Player Reports.
-
-### Survivors
-
-- Survivors have more leeway than marines with their mental stability due to the trauma they may have experienced during the xenomorph attack. They may be suffering PTSD, paranoia or similar conditions for roleplaying purposes. 
-- Survivors may NOT be hostile unless they have been spawned as hostile survivors (CLF) - see [Hostile Factions](#hostile-factions).
-  - Hostile survivors cannot attempt to harm other survivors.
-- Survivors should not be rushing to attack the hive before the roundstart xenos have had a chance to evolve.
- 
-### Command
-
-- COs, XOs or aCOs are OOCly bound to follow [Non-Modifiable Standard Operating Procedure](https://cm-ss13.com/wiki/Standard_Operating_Procedure#Non-Modifiable_Standard_Operating_Procedure).
-    - For example you MUST conduct a briefing before the start of the operation and HAVE TO make an attempt to build defences around your primary LZ.
-- Both the Marine CIC and the Queen - can send images of the map, from the wiki, webmap or tactical map, with annotations drawn on them, as announcements, if uploaded to a trusted hosting service.
+**The crew and passengers of the Almayer do not know the following information:**
+-That there are Xenos on the colony (prior to first contact).
+-Xeno prefix or postfix names (The unique letters a xeno player gets to select).
+-The existence of Predators, nor their mechanics, lore, or their “Honor Code”.
 
 ### ID Cards
-
 - These should only be taken for a roleplay reason, such as from a dead XO to call for help on a computer in the ship’s bridge. If you take an ID or find one from a living player (or a dead player that has since been revived), you should make every attempt to return it unless your character has a good reason not to. - You should not grant yourself or others increased access to areas of the ship unless there is a personnel shortage or exceptional reason to do so. 
-- Death or absence of any senior officers is suitable reason to grant yourself needed access to run the operation. 
-- Requisitions missing personnel is a valid reason to give other people or yourself access to Requisitions etc.
 
-### Language
+### Ship Modifications
+- Deconstruction of the ship should not be occurring before first drop & confirmed contact. The marines would not immediately resort to taking their warship to pieces for a random unconfirmed distress call. In order to deconstruct the ship, a shipwide message from the aCO must clearly authorize it through the use of an announcement.
+- This includes deconstruction of things like chairs in briefing, however does not include the barrels and crates scattered around maintenance.
 
-- Spamming chat (Local or Radio) with non-english characters, symbols or other gibberish is considered LRP, and a violation of Rule 2.
+### Role-Based Roleplaying Standards
 
-### Aliens & Predators
+The following roles are expected to follow the rules associate with their number, as well as any number that comes before them. For instance, a level 3 role is expected to follow the baseline roleplay rules, and both level 2 and level 1 rules. 
 
-- Marines know what Xenos are and have encountered them before. They have a basic knowledge of how the hive works. 
-  - They **do not** know there are Xenos on the colony. 
-  - They do not know any individual Xeno's prefix or postfix - they can, at most, identify the caste.
-- Marines have not encountered Predators before. Any encounters are to be considered the first of their kind. Marines are permitted to roleplay "I've heard stories and/or legends" in regards to Predators, but metagaming knowing everything about them is a violation. Nicknames that are realistic such as "Jamaicans" "Dreadlock Lizards" "Spooks" "Phantoms or Ghosts" are acceptable. Avoid meme/gaming terminology such as "maicers"
+**Level 1 Roles:** Weapons Specialist and Smartgunners | Level 1 Roles are expected to follow the orders assigned to them by their leadership and should not be running off to fight alone. Special circumstances might alleviate this requirement, but they will be subject to staff determination based on medium roleplay expectations. 
 
-## Xeno Roleplay Standards
+**Level 2 Roles:** Fireteam Leaders, Squad Leaders, Dropship Crew Chiefs, the Quartermaster, and the Military Warden | Level 2 Roles are non-commissioned officers, and as authority increases so too does roleplay expectations. These roles are subject to increased scrutiny, and are expected to adopt characters which are suitable to the setting. They should not find themselves engaged in low-roleplay activity. 
+
+**Level 3 Roles:** Staff Officers, the Chief MP, the Auxiliary Support Officer, Intelligence Officers, Pilot Officers, the Chief Engineer, the Chief Medical Officer, Researchers, and Doctors | Level 3 Roles are all officers and are held to the highest standards. These roles are expected to behave like the leaders they are, and are subject to the most roleplay-based scrutiny. 
+
+**Level 4 Roles:** COs, XOs or aCOs are bound to follow all [Non-Modifiable Standard Operating Procedure](https://cm-ss13.com/wiki/Standard_Operating_Procedure#Non-Modifiable_Standard_Operating_Procedure)
+
+### Deployment
+- Certain Heads of Departments (RO, CMP, ASO, and CMO) should not be leaving the ship barring exceptional circumstances.
+- All marines should be deploying where possible, refusing to deploy because someone got arrested is not allowed.
+- Shipside Crew, where authorized to deploy, must remain in secure areas. They may move to a different secure area so long as they are protected by two marines during transit.
+
+### Survivors
+- Survivors have more leeway than marines within the sanity rule due to the trauma they may have experienced during the xenomorph attack. They may be suffering PTSD, paranoia or similar conditions for roleplaying purposes.
+- Survivors may NOT be hostile unless they have been spawned as hostile survivors (CLF) - see Hostile Factions in Rule 10.
+- Hostile survivors may not attempt to harm other survivors.
+- Survivors may not willingly traverse hive weeds or attack larva on hive weeds before 10 minutes round-time.
+  
+
+## Xenomorph Roleplay Standards
 
 ### Freedom
-
 - Aliens have no free will. They are a hivemind, and their purpose is to enforce the will of the Queen and expand the Hive.
-- They are not friendly, and will not negotiate.
-  - They are not obligated to destroy synthetic lifeforms, and can ignore them at the wishes of the Queen.
+- The main hive is not friendly, and its members will not negotiate. Xenomorph hives who are spawned through research are not subject to this rule. 
 
 ### Language
-
 - Xeno hivemind is an English translation of their thoughts, so words such as “hydro” or “shuttle” are acceptable. Referring to in-character mechanics such as "Evolution" and "Plasma" for example, is okay. Gameplay mechanics such as "New Xeno update." should be used in LOOC chat.
 - Spamming "Reeeee" and similar such behaviour in Hivemind or Local Chat is not allowed.
 
 ### Marines
-
 - Due to the Hivemind, xenos know everything every xeno learns and know the basics of human equipment.
 - At the start of the round, the Xenos can sense the human's ship looming above their hive and are aware that human forces will be visiting the colony shortly.
 - They do not know any individual human's name, but they may know the role they fulfil.
 
 ### Larva
-
-- Larva should typically remain within the Hive, this is especially the case for roundstart larva, and avoid the frontlines.
-- Larva should not be sneaking onto the dropship to head up to the Almayer.
-- Larva are not recon castes, and should not be seeking out survivors.
+- Larva must remain within the Hive unless staying in the hive would be more hazardous to their survival than leaving the hive. Additionally, larva may leave the hive if the queen specifically orders the larva to move elsewhere, however the queen’s orders can not bypass the next two points: 
+    - Larva should not be sneaking onto the dropship to head up to the Almayer.
+    - Larva are not scouts, and should not be acting as such.
 
 ### Queen
-
-- The Queen can banish Xenos who fail to uphold these standards and expectations - banish cannot be used as a joke.
+- The Queen can banish Xenos who fail to abide by her will or show her disrespect. Voicing disagreement with a decision or arguing for a different strategy does not constitute disrespect. 
 - The Queen cannot use banish for clear mechanical advantage - such as banishing xenos that are in containment, in order to reclaim larva.
-- The Queen can de-evolve someone if they want to add a certain caste, however, it must make sense in character - only having one type of T3 would not fulfil this criteria.
+The Queen can de-evolve someone if they want to add a certain caste, however, it must make sense in character - only having one type of T3 would not fulfill this criteria.
 
-### Shipside Xenomorphs
+### Xenomorph Balance Considerations
+- While shipside xenomorphs can do almost everything they like once they get shipside they aren’t allowed to attack people within the squad cryo or preparation areas.
+    - This restriction doesn’t apply post-hijack.
+- Xenomorphs may not enter the dropship before the second drop.
+- Tier 3 Xenomorphs may not fight within twenty tiles of the marines’ primary landing zone before second drop.
 
-- While shipside xenomorphs can do almost everything they like once they get shipside they aren't allowed to attack people who just got out of cryo and are getting their gear.
-    - This restriction doesnt apply post-hijack.
-- Xenomorphs should not be rushing to get onto the dropship before second drop.
 
-## Predator Roleplay Standards
+## Third-Party Roleplay Standards
 
-- Predators are honorable hunters. They must follow the [Honor Code](https://forum.cm-ss13.com/t/predator-honor-code/575) and act like a serious predator, not a prankster. 
-- The USCM does not hold any information about these beings, meaning each contact is unknown regarding them. 
-- Predator Honor Code breaches are handled by the Predator Whitelist Council, who can be contacted on Discord or through Player Reports.
+### Predator Roleplay Standards
+- Predators are honorable hunters. They must follow the [Honor Code](https://forum.cm-ss13.com/t/predator-honor-code/575) and are held to High Roleplay Standards. 
+- Predator Honor Code breaches and acts of low roleplay conducted by a predator are handled by the Predator Whitelist Council, who can be contacted on Discord or through Player Reports.
+
+### Synthetic Roleplay Standards
+- Synthetics must adhere to the [Synthetic Programming and Guidelines](https://forum.cm-ss13.com/t/synthetic-programming-and-guidelines/699) 
+- Synthetic Guideline and roleplay breaches are dealt with by the Synthetic Whitelist Council, who can be contacted on discord or through Player Reports.
 
 ---
 
