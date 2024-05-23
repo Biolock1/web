@@ -85,10 +85,7 @@ Major shenanigans that may disrupt the normal flow of the round at roundstart, (
 - Higher ranking squad marines (such as the squad-leader, specialist, smart-gunner and FTL) should be following the orders assigned to them by the commander instead of running off to go fight alone. Special circumstances exclude this requirement, but players should be prepared to justify their actions if contacted by staff. 
 - Certain Heads of Departments (RO, CMP and CMO) should not be leaving the ship barring exceptional circumstances.
 - All marines should be deploying where possible, refusing to deploy because someone got arrested is not allowed. 
-- Shipside Crew, where authorised to deploy, must remain in secure areas, and must fulfil their role:
-    -Maintenance Technicians should be aiding in FOB construction, or securing areas close to the FOB.
-    -Doctors are not to be combat medics running into danger to pull wounded or dead marines out of combat.
-    -The Combat Correspondent should be documenting the fighting, and should disengage if attacked by hostiles.
+- Shipside Crew must remain in areas secured by barricades.
 
 ### Ship Modifications 
 
